@@ -7,8 +7,6 @@ A portable, Markdown-first personal knowledge base for use across AI assistants 
 ## About this archive
 This archive contains a curated profile of the repository owner, who works as a software / R&D engineer focused on platform engineering and AI application development. It also records selected technical interests, project summaries, working preferences, and reusable lessons.
 
-**Identity boundary:** The user's spouse works in international sales support at Sinoseal Holding. That role is not the repository owner's employment history and must never be attributed to the owner.
-
 ## Structure
 - `identity/` — stable profile, career background and goals
 - `workflow/` — work practices, tools, communication, prioritization
@@ -24,6 +22,6 @@ This archive contains a curated profile of the repository owner, who works as a 
 4. Prefer concise, dated, source-attributed entries.
 5. Propose changes as a diff or pull request; do not overwrite existing content blindly.
 6. Keep sensitive/private material outside this public repository.
-7. Do not mix the owner's experience with a spouse's, colleague's, or family member's experience.
+7. Record only the owner's own experiences; do not attribute another person's work or projects to the owner.
 
 See [ai-integration.md](ai-integration.md) and [SECURITY.md](SECURITY.md).
